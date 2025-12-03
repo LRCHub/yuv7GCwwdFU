@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "music",
+  "base_artist": "豊崎愛生",
+  "createdAt": "2025-12-03T08:57:12.578752Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "City of Music",
+      "artist": "Brad Paisley",
+      "has_synced": true,
+      "path": "select/01_City_of_Music_Brad_Paisley.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Like I Love Country Music",
+      "artist": "Kane Brown",
+      "has_synced": true,
+      "path": "select/02_Like_I_Love_Country_Music_Kane_Brown.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Like I Love Country Music",
+      "artist": "Kane Brown",
+      "has_synced": true,
+      "path": "select/03_Like_I_Love_Country_Music_Kane_Brown.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Quevedo: Bzrp Music Sessions, Vol. 52",
+      "artist": "Bizarrap feat. Quevedo",
+      "has_synced": true,
+      "path": "select/04_Quevedo__Bzrp_Music_Sessions,_Vol._52_Bizarrap_feat._Quevedo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Exit Music (For a Film)",
+      "artist": "Amanda Palmer",
+      "has_synced": false,
+      "path": "select/05_Exit_Music_(For_a_Film)_Amanda_Palmer.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Strength Through Music",
+      "artist": "Amanda Palmer",
+      "has_synced": true,
+      "path": "select/06_Strength_Through_Music_Amanda_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Background Music",
+      "artist": "Maren Morris",
+      "has_synced": true,
+      "path": "select/07_Background_Music_Maren_Morris.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Beat of the Music",
+      "artist": "Brett Eldredge",
+      "has_synced": true,
+      "path": "select/08_Beat_of_the_Music_Brett_Eldredge.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Country Music",
+      "artist": "Jordana Bryant",
+      "has_synced": true,
+      "path": "select/09_Country_Music_Jordana_Bryant.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Country Music Made Me Do It",
+      "artist": "Carlton Anderson",
+      "has_synced": true,
+      "path": "select/10_Country_Music_Made_Me_Do_It_Carlton_Anderson.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "God And Country Music",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/11_God_And_Country_Music_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Joe, Don't Let Your Music Kill You",
+      "artist": "Tom T. Hall",
+      "has_synced": false,
+      "path": "select/12_Joe,_Don't_Let_Your_Music_Kill_You_Tom_T._Hall.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Let the Music Play",
+      "artist": "Johnny Winter",
+      "has_synced": true,
+      "path": "select/13_Let_the_Music_Play_Johnny_Winter.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Mother Country Music",
+      "artist": "Vern Gosdin",
+      "has_synced": false,
+      "path": "select/14_Mother_Country_Music_Vern_Gosdin.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Mountain Music",
+      "artist": "Alabama",
+      "has_synced": false,
+      "path": "select/15_Mountain_Music_Alabama.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "music",
+      "artist": "豊崎 愛生",
+      "has_synced": false,
+      "path": "select/pl_01_music_豊崎_愛生.txt"
+    }
+  ]
+}
